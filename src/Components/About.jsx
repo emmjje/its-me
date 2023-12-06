@@ -15,7 +15,7 @@ import React from "react";
  *
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
- */
+ **/
 import image from "../images/motion-background.jpg";
 
 const imageAltText = "purple and blue abstract background";
@@ -24,19 +24,22 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Experienced professional with a versatile background in infrastructure, operations, security, compliance, product development, monitoring, automation, and application software development life cycle. Passionate about creating robust and scalable solutions that optimize efficiency and enhance security measures.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Infrastructure Design and Management",
+  "Operations Optimization",
+  "Security and Compliance",
+  "Product Development",
+  "Monitoring Strategies",
+  "Automation and Scripting",
+  "Application SDLC",
+  // Add more skills as needed
+
 ];
 
 /**
@@ -45,7 +48,8 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Passionate about solving complex challenges through innovative solutions in infrastructure, operations, security, compliance, product development, monitoring, automation, and application software development life cycle (SDLC). My goal is to make technology accessible to all by combining technical expertise with a creative and user-centric approach.";
+
 
 const About = () => {
   return (

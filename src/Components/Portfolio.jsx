@@ -1,3 +1,4 @@
+
 /**
  * Portfolio component
  *
@@ -19,7 +20,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Me-work-Laptop.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +32,40 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Building Technuvibe",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Explore a world of possibilities with our innovative job portal. We are dedicated to connecting you with rewarding career opportunities that match your skills and aspirations..",
+    url: "https://www.technuvibe.com/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Manager | Sayurbox Indonesia",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Sayurbox is an Indonesian startup that was founded in 2016 with a mission to use technology to improve Indonesia's agricultural supply chain.",
+    url: "https://www.sayurbox.com/",
   },
   {
-    title: "My Resume Site",
+    title: "Manager | Truemoney Indonesia",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "TrueMoney is an electronic payment service that allows users to make all transactions through applications on mobile and EDC",
+    url: "https://www.ascendmoneygroup.com/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Manager | Exsamap Asia",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Subsidiary of Intermap Technologies Corp is a geospatial information company that provides solutions for base mapping, transportation, and environmental monitoring.",
+    url: "https://www.intermap.com/",
+  },
+  {
+    title: "Network & System Engineer | Inet Global Indo",
+    description:
+      "PT Inet Global Indo, is an Indonesian company based in Jakarta. It is engaged in Information Communication Technology (ICT) and is licensed as a nationwide Internet service provider. The company provides a range of ICT services and is a key player in the industry in Indonesia..",
+    url: "https://www.inet.net.id/",
+  },
+  {
+    title: "Network & System Engineer | Triyakom",
+    description:
+      "leading content and service developer and aggregator in Indonesia, with nearly 20 years of experience in content and mobile technology.",
+    url: "https://triyakom.com/",
   },
 ];
 
