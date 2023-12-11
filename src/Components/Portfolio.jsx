@@ -32,7 +32,7 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Building Technuvibe",
+    title: "Crafting & Developing Technuvibe",
     description:
       "Explore a world of possibilities with our innovative job portal. We are dedicated to connecting you with rewarding career opportunities that match your skills and aspirations..",
     url: "https://www.technuvibe.com/",
